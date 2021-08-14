@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=helios741)]()
+
+欢迎关注我的公众号：
+![image](https://user-images.githubusercontent.com/12036324/129443175-e2a6a676-4ba6-42cd-8e24-fe3577c4acde.png)
+
 <!--
 **helios741/helios741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
